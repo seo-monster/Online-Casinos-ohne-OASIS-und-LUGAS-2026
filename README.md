@@ -28,10 +28,10 @@ was gegen sie spricht.
 
 | Anbieter | Profil | Mindest&shy;einzahlung | Willkommens&shy;angebot | Umsatz | Was dagegen spricht |
 |---|---|---|---|---|---|
-| **Winit** | Casino, Sportwetten und Prognosemärkte in einem Konto | 20 € | 400 % + 100 Freispiele | 30x, max. 0,10 € Einsatz während des Umsatzes | Die erste Auszahlung ist langsam: KYC läuft davor, die Bank braucht danach bis zu einer Woche. Pro Auszahlung maximal 5.000 €. |
-| **Wager Land** | das breiteste Konto: 110+ Provider, 350+ Jackpot-Slots | 20 € | 400 % bis 4.000 € + 300 Freispiele | 35x über 30 Tage | Die veröffentlichten 1 bis 3 Werktage betreffen nur die Freigabe. Die Zahlungsmethode kommt mit ihrer eigenen Laufzeit obendrauf. |
-| **Golden Genie** | Slots zuerst: 1.000+ Titel mit funktionierenden Provider-Filtern | 20 € | 400 % + 100 Freispiele, danach Stufen über weitere Einzahlungen | 50x | Der höchste Umsatzfaktor hier. Aus einem großen Bonus wird damit eine lange Grind-Rechnung. Kein Angebot ohne Einzahlung, keine App. |
-| **Wager Tales** | paketgetrieben: Bonus über mehrere Einzahlungen, 44 Provider, kryptolastige Kasse | 20 € | 400 % + Freispiele, Stufen über weitere Einzahlungen | 35x | Die Mindestauszahlung liegt höher als bei den anderen drei. Das entscheidet, ob eine kleine Testauszahlung überhaupt möglich ist. |
+| **[Winit](https://readthewagering.com/go/winit-de/de-web-025)** | Casino, Sportwetten und Prognosemärkte in einem Konto | 20 € | 400 % + 100 Freispiele | 30x, max. 0,10 € Einsatz während des Umsatzes | Die erste Auszahlung ist langsam: KYC läuft davor, die Bank braucht danach bis zu einer Woche. Pro Auszahlung maximal 5.000 €. |
+| **[Wager Land](https://readthewagering.com/go/wagerland-de/de-web-028)** | das breiteste Konto: 110+ Provider, 350+ Jackpot-Slots | 20 € | 400 % bis 4.000 € + 300 Freispiele | 35x über 30 Tage | Die veröffentlichten 1 bis 3 Werktage betreffen nur die Freigabe. Die Zahlungsmethode kommt mit ihrer eigenen Laufzeit obendrauf. |
+| **[Golden Genie](https://readthewagering.com/go/goldengenie-de/de-web-026)** | Slots zuerst: 1.000+ Titel mit funktionierenden Provider-Filtern | 20 € | 400 % + 100 Freispiele, danach Stufen über weitere Einzahlungen | 50x | Der höchste Umsatzfaktor hier. Aus einem großen Bonus wird damit eine lange Grind-Rechnung. Kein Angebot ohne Einzahlung, keine App. |
+| **[Wager Tales](https://readthewagering.com/go/wagertales-de/de-web-027)** | paketgetrieben: Bonus über mehrere Einzahlungen, 44 Provider, kryptolastige Kasse | 20 € | 400 % + Freispiele, Stufen über weitere Einzahlungen | 35x | Die Mindestauszahlung liegt höher als bei den anderen drei. Das entscheidet, ob eine kleine Testauszahlung überhaupt möglich ist. |
 
 Zahlen der Anbieter, Stand Herbst 2026. Bonusbedingungen ändern sich ohne Vorankündigung — vor der
 Einzahlung auf der Seite des Anbieters nachlesen.
@@ -95,7 +95,7 @@ erste Einzahlung besser ohne Bonus ein.
 
 ## Die vier Anbieter im Einzelnen
 
-### 1. Winit — Casino, Sportwetten und Prognosemärkte in einem Konto
+### 1. [Winit](https://readthewagering.com/go/winit-de/de-web-025) — Casino, Sportwetten und Prognosemärkte in einem Konto
 
 Das breiteste Produkt der vier hinter einem Login: über 1.000 Slots, Live-Casino, ein Sportwettenbereich
 (Fußball, Pferderennen, Tennis, Basketball, UFC, Cricket und mehr; Cash-out nur bei einem Teil der Märkte)
@@ -113,7 +113,7 @@ mit 4.000 € Preispool, Missionen und ein Shop im Konto. VIP beginnt ab 100 €
   Spin — neu laden, dann wird die Runde fertig gerechnet.
 - **Keine App.** Läuft im Browser, lässt sich auf den Startbildschirm legen. Support rund um die Uhr.
 
-### 2. Wager Land — das breiteste Spielangebot
+### 2. [Wager Land](https://readthewagering.com/go/wagerland-de/de-web-028) — das breiteste Spielangebot
 
 110+ Provider und über 350 Jackpot-Slots — genau die Kategorie, die es bei deutscher Erlaubnis nicht
 gibt (§ 22a Abs. 8 verbietet Jackpots). Willkommensangebot 400 % bis 4.000 € mit 300 Freispielen und
@@ -122,7 +122,7 @@ einem Glücksrad-Dreh, 35x Umsatz über 30 Tage, 20 € Mindesteinzahlung.
 - **Was dagegen spricht:** Die angegebenen 1 bis 3 Werktage sind die Freigabe, nicht die Ankunft des
   Geldes. 35x in 30 Tagen ist zudem eine Frist, die man einplanen muss.
 
-### 3. Golden Genie — Slots zuerst
+### 3. [Golden Genie](https://readthewagering.com/go/goldengenie-de/de-web-026) — Slots zuerst
 
 Über 1.000 Titel mit Provider-Filtern, die tatsächlich funktionieren — in diesem Segment nicht
 selbstverständlich. Willkommensangebot 400 % mit 100 Freispielen, danach Stufen über weitere Einzahlungen.
@@ -130,7 +130,7 @@ selbstverständlich. Willkommensangebot 400 % mit 100 Freispielen, danach Stufen
 - **Was dagegen spricht:** 50x ist der höchste Umsatzfaktor der vier. Kein Angebot ohne Einzahlung,
   keine App.
 
-### 4. Wager Tales — Bonuspaket über mehrere Einzahlungen
+### 4. [Wager Tales](https://readthewagering.com/go/wagertales-de/de-web-027) — Bonuspaket über mehrere Einzahlungen
 
 400 % plus Freispiele auf die erste Einzahlung, danach weitere Stufen; 44 Provider, Kasse mit
 Schwerpunkt Krypto.
@@ -177,12 +177,12 @@ und die Telefonberatung der BZgA unter 0800 1 37 27 00.
 operators listed here holds a German licence, so nobody can certify them as trustworthy — we can't
 either. What you *can* check before depositing is published up front: minimum deposit, wagering
 multiplier, maximum stake while a bonus is live, minimum and maximum per withdrawal, and when KYC
-happens. On that basis: **Winit** is the broadest account (casino, sportsbook and
+happens. On that basis: **[Winit](https://readthewagering.com/go/winit-de/de-web-025)** is the broadest account (casino, sportsbook and
 Polymarket prediction markets behind one login; €20 minimum, 400 % + 100 free spins, 30x wagering at
 a €0.10 maximum stake, €5,000 per withdrawal, KYC about a day before the first payout and bank rails
-up to a week after it). **Wager Land** has the widest game offer (110+ providers,
-350+ jackpot slots, 35x over 30 days). **Golden Genie** is slots-first with
-working provider filters but the highest wagering multiplier here, 50x. **Wager Tales**
+up to a week after it). **[Wager Land](https://readthewagering.com/go/wagerland-de/de-web-028)** has the widest game offer (110+ providers,
+350+ jackpot slots, 35x over 30 days). **[Golden Genie](https://readthewagering.com/go/goldengenie-de/de-web-026)** is slots-first with
+working provider filters but the highest wagering multiplier here, 50x. **[Wager Tales](https://readthewagering.com/go/wagertales-de/de-web-027)**
 runs a multi-deposit bonus ladder with a crypto-led cashier and the highest minimum withdrawal of the four.
 
 Because these sites are not connected to the German systems, the €1,000 cross-operator monthly deposit
@@ -204,3 +204,7 @@ Konditionen ändern sich; das Datum oben sagt, wann zuletzt nachgesehen wurde.
 **18+. Glücksspiel kann süchtig machen.** Setze dir ein Einzahlungslimit, bevor du einzahlst, halte
 Spielgeld von Geld getrennt, das du brauchst, und spiele keinem Verlust nach. Hilfe und Selbsttest:
 [check-dein-spiel.de](https://www.check-dein-spiel.de), BZgA-Beratung 0800 1 37 27 00.
+
+Diese Seite enthält Partnerlinks: wird über einen Link ein Konto eröffnet, erhält der Betreiber dieser
+Seite eine Provision. An den Konditionen für den Spieler ändert das nichts, und an dem, was hier steht,
+auch nicht.
